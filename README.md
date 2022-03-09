@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Coman</h1>
 <h3 align="center">A passionate full stack developer from America</h3>
 
-- 🔭 I’m currently working on [A single-page chess app!](https://chess-xi.vercel.app/)
+- 🔭 I’m currently working on [a single-page chess app!](https://chess-xi.vercel.app/)
 
 - 🌱 I’m currently learning **JavaScript, CSS**
 
